@@ -1,4 +1,4 @@
-# Symfony 4 skeleton
+# Symfony 4 skeleton with HMR support
 Basic Symfony 4 app skeleton with frontend/backend structrue and configured Webpack (Encore) for js and sass bundling.
 
 ## Features
