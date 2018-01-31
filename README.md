@@ -9,7 +9,7 @@ Basic Symfony 4 app skeleton with frontend/backend structrue and configured Webp
 - JS lint
 - SASS lint
 
-# Prerequisities
+# Prerequisites
 - PHP 7.1
 - Composer
 - Node.js
