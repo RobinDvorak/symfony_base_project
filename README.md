@@ -1,7 +1,7 @@
-#Symfony 4 skeleton
+# Symfony 4 skeleton
 Basic Symfony 4 app skeleton with frontend/backend structrue and configured Webpack (Encore) for js and sass bundling.
 
-##Features
+## Features
 - Hot Module Reload
 - SASS compilation
 - ECMA Script 6 compilation to JS
@@ -9,16 +9,16 @@ Basic Symfony 4 app skeleton with frontend/backend structrue and configured Webp
 - JS lint
 - SASS lint
 
-#Prerequisities
+# Prerequisities
 - PHP 7.1
 - Composer
 - Node.js
 
-##Instalation
+## Instalation
 - run ``composer install``
 - run ``npm install``
 
-##Development
+## Development
 - start php server
 - run ``php bin/console server:run``
 - start Webpack watcher
