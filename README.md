@@ -14,7 +14,7 @@ Basic Symfony 4 app skeleton with frontend/backend structrue and configured Webp
 - Composer
 - Node.js
 
-## Instalation
+## Installation
 - run ``composer install``
 - run ``npm install``
 
